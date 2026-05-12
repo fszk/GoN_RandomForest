@@ -6,6 +6,9 @@ Kokoszka, F., Asdar, S., Lefebvre, C., Buongiorno Nardelli, B., Mercogliano, P.,
 “Chlorophyll Response to Freshwater and Wind Forcing in a Coastal Ecosystem: Recent Decades and Future Climate Scenarios”
 
 Code repository prepared by Florian Kokoszka.
+DOI: https://doi.org/10.5281/zenodo.20137722
+
+Citation: Florian Kokoszka. (2026). fszk/GoN_RandomForest: CHLSAL v1.0 — Random Forest for Chlorophyll and Salinity (v1.0). Zenodo. https://doi.org/10.5281/zenodo.20137722
 
 ## Repository structure
 ### /code
@@ -34,3 +37,5 @@ Some external datasets referenced in the study may require access through their 
 ## Citation
 
 If using this repository or parts of the workflow, please cite the associated manuscript and repository DOI once available through Zenodo.
+
+Florian Kokoszka. (2026). fszk/GoN_RandomForest: CHLSAL v1.0 — Random Forest for Chlorophyll and Salinity (v1.0). Zenodo. https://doi.org/10.5281/zenodo.20137722
